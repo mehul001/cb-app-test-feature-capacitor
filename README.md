@@ -17,3 +17,5 @@ In order to complete the test, the following requirements of the project/ app ne
 
 
 And basically you should display within the app the `utm_campaign` and `utm_medium` parameters value.
+
+Used `https://bulma.io/documentation/` for CSS styling
