@@ -1,5 +1,4 @@
-# cb-app-test-feature-capacitor
- cb-app-test-feature-capacitor
+# Mehul Chamunda - CB Angular/App Test
 
 ##### Test description
 
